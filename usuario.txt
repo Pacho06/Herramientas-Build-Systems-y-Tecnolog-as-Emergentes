@@ -1,0 +1,2 @@
+correo = nextu@gmail.com
+Contraseña = nextu123
